@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
     typedContainer.innerHTML = "";
 
     const text = `
-Dear Riri,
+Dear Nidhi,
 
 I hope this little letter finds you smiling, the way you always manage to light up my world.
 
@@ -129,7 +129,7 @@ And trust me… this sky wouldn’t look the same without you.
 
 Should the world ever feel heavy upon your crown, know there stands a knight who would gladly walk beside you.
 
-Happy 20th birthday, princess Riri. May this year bring you growth, gentle moments, loud laughter, and all the happiness you quietly deserve.
+Happy 19th birthday, princess Nidhi. May this year bring you growth, gentle moments, loud laughter, and all the happiness you quietly deserve.
 `;
 
     let index = 0;
@@ -199,7 +199,7 @@ Happy 20th birthday, princess Riri. May this year bring you growth, gentle momen
     <div class="final-hero">
       <h1 id="happy" class="hidden-word">HAPPY</h1>
       <h1 id="birthday" class="hidden-word">BIRTHDAY</h1>
-      <h2 id="princess" class="hidden-word">Princess Riri ✨</h2>
+      <h2 id="princess" class="hidden-word">Princess Nidhi ✨</h2>
     </div>
   `;
 
